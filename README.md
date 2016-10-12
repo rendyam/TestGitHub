@@ -1,2 +1,2 @@
 # TestGitHub
-Git Hub Tutorial
+Test GitHub Repository
